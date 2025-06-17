@@ -5,7 +5,19 @@ body{
 a{
     color: white;
 }
+.título{
+    font-family: cursive;
+    font-size: 28px;
+}
+.texto{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
 
-.center{
+}
+.meio{
     text-align: center;
+}
+.footer{
+    font-family: cursive;
+    font-size: 18px;
 }
