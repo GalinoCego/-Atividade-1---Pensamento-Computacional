@@ -1,12 +1,41 @@
 .a{
+    font-size: 24px;
+    font-family: cursive;
     display: flex;
     margin-top: 100px;
     margin-left: 200px;
+    gap: 5px;
+}
+.grande{
+    background-color: cadetblue;
+    padding: 20px;
 }
 .pequena{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+}
+.gato1{
+    background-color: plum;
+    padding: 20px;
 }
 .gato2{
-    margin-left: 20px;
+    background-color: orange;
+    padding: 20px;
+}
+.gato3{
+    background-color: orangered;
+    padding: 20px;
+}
+.gato4{
+     background-color: orangered;
+     padding: 20px;
+}
+.gato5{
+    background-color: cadetblue;
+    padding: 20px;
+}
+.gato6{
+    background-color: burlywood;
+    padding: 20px;
 }
