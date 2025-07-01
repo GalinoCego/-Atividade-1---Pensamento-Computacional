@@ -1,0 +1,12 @@
+.a{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.pequena{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.gato2{
+    margin-left: 20px;
+}
