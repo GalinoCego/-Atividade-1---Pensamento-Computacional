@@ -18,27 +18,25 @@ body{
     grid-template-columns: repeat(3, 1fr);
     gap: 5px;
 }
+.gato{
+       border-radius: 20px;
+       padding: 20px;
+}
 .gato1{
     background-color: plum;
-    padding: 20px;
 }
 .gato2{
     background-color: orange;
-    padding: 20px;
 }
 .gato3{
     background-color: orangered;
-    padding: 20px;
 }
 .gato4{
      background-color: orangered;
-     padding: 20px;
 }
 .gato5{
     background-color: cadetblue;
-    padding: 20px;
 }
 .gato6{
     background-color: burlywood;
-    padding: 20px;
 }
